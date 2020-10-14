@@ -3,3 +3,6 @@ this is another test file
 changing recklessly once again
 
 conflicts not happening
+
+more careful changes
+
